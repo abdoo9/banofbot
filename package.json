@@ -1,5 +1,5 @@
 {
-  "name": "banofbot",
+  "name": "ban4bot",
   "version": "0.0.1",
   "description": "Telegram bot to kick and ban users",
   "main": "app.js",

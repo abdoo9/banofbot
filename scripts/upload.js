@@ -18,7 +18,7 @@ Object.keys(localizations).forEach((language) => {
       localizations: flattenedLocalizations,
       password: process.env.PASSWORD,
       username: 'borodutch',
-      tags: ['banofbot'],
+      tags: ['ban4bot'],
     })
     console.error(`==== Body posted!`)
   } catch (err) {

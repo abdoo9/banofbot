@@ -12,93 +12,93 @@ module.exports = {
   },
   helpPrivate: {
     uk:
-      '😎 *Banofbot* дозволяє голосувати за бан участників чату. Появився спамер або ще який негідник, а адмінів нема поруч? Просто дайте відповідь на повідомлення порушника текстом `@banofbot` і бот почне голосування.\n\n@banofbot чудово працює в групових чатах — давайте, додайте його в кілька! Не забудьте назначити бота адміном, інакше він не зможе працювати.\n\n/help — Показує це повідомлення 😱\n/language — Дозволяє вибрати мову 📣\n\n',
+      '😎 *ban4bot* дозволяє голосувати за бан участників чату. Появився спамер або ще який негідник, а адмінів нема поруч? Просто дайте відповідь на повідомлення порушника текстом `@ban4bot` і бот почне голосування.\n\n@ban4bot чудово працює в групових чатах — давайте, додайте його в кілька! Не забудьте назначити бота адміном, інакше він не зможе працювати.\n\n/help — Показує це повідомлення 😱\n/language — Дозволяє вибрати мову 📣\n\n',
     en:
-      "😎 *Banofbot* allows you to vote to ban users. Got a spammer or flamer but nobody is out there to ban one? Simply reply to the violator's message with the text `@banofbot` and the bot will start the voting.\n\n@banofbot works well in group chats — so go on, add it to one of your precious chats! Don't forget to set it as an admin, otherwise it wouldn't work.\n\n/help — Shows this message 😱\n/language — Lets you pick the language 📣\n\n",
+      "😎 *ban4bot* allows you to vote to ban users. Got a spammer or flamer but nobody is out there to ban one? Simply reply to the violator's message with the text `@ban4bot` and the bot will start the voting.\n\n@ban4bot works well in group chats — so go on, add it to one of your precious chats! Don't forget to set it as an admin, otherwise it wouldn't work.\n\n/help — Shows this message 😱\n/language — Lets you pick the language 📣\n\n",
     pt:
-      '😎 *Banofbot* permite que você vote para banir usuários. Tem alguém fazendo spam ou flood e não tem um admin disponível para dar ban? Simplesmente responda à mensagem do infrator com o texto `@banofbot` e o bot iniciará a votação.\n\n@banofbot funciona bem em grupos — então o adicione a um de seus preciosos bate-papos! Não se esqueça de configurá-lo como administrador, caso contrário não vai adiantar nada.\n\n/help — Mostra esta mensagem 😱 \n/language — Permite escolher o idioma 📣\n\n',
+      '😎 *ban4bot* permite que você vote para banir usuários. Tem alguém fazendo spam ou flood e não tem um admin disponível para dar ban? Simplesmente responda à mensagem do infrator com o texto `@ban4bot` e o bot iniciará a votação.\n\n@ban4bot funciona bem em grupos — então o adicione a um de seus preciosos bate-papos! Não se esqueça de configurá-lo como administrador, caso contrário não vai adiantar nada.\n\n/help — Mostra esta mensagem 😱 \n/language — Permite escolher o idioma 📣\n\n',
     ru:
-      '😎 *Banofbot* позволяет голосовать за бан участников чата. Появился спамер или еще какой негодяй, а админов нет рядом? Просто ответьте на сообщение провинившегося текстом `@banofbot` и бот начнет голосование.\n\n@banofbot отлично работает в групповых чатах — давайте, добавьте его в парочку! Не забудьте назначить бота админом, иначе он не сможет работать.\n\n/help — Показывает это сообщение 😱\n/language — Позволяет выбрать язык 📣\n\n',
+      '😎 *ban4bot* позволяет голосовать за бан участников чата. Появился спамер или еще какой негодяй, а админов нет рядом? Просто ответьте на сообщение провинившегося текстом `@ban4bot` и бот начнет голосование.\n\n@ban4bot отлично работает в групповых чатах — давайте, добавьте его в парочку! Не забудьте назначить бота админом, иначе он не сможет работать.\n\n/help — Показывает это сообщение 😱\n/language — Позволяет выбрать язык 📣\n\n',
     uz:
-      "😎 *Banofbot* guruh a'zolarini ban qilish uchun ovoz berishga yordam beradi. Spamer yoki qandaydir bezori paydo bo`ldi, lekin adminlar bandmi? Shunchaki bezorining habariga javob qilib `@banofbot` so`zini yuboring va bot ban qilish uchun ovoz to`plashni boshlaydi.\n\n@banofbot guruhlarda zo`r ishlaydi — uni bir nechta guruhlarga qo`shing va rivojlantirishga yordam bering! Botni admin qilib tayinlashni unutmang, aks holda u ishlamaydi.\n\n/help — Ushbu habarni ko`rsatadi 😱\n/language — Foydalanish tilini tanlashga yordam beradi 📣\n",
+      "😎 *ban4bot* guruh a'zolarini ban qilish uchun ovoz berishga yordam beradi. Spamer yoki qandaydir bezori paydo bo`ldi, lekin adminlar bandmi? Shunchaki bezorining habariga javob qilib `@ban4bot` so`zini yuboring va bot ban qilish uchun ovoz to`plashni boshlaydi.\n\n@ban4bot guruhlarda zo`r ishlaydi — uni bir nechta guruhlarga qo`shing va rivojlantirishga yordam bering! Botni admin qilib tayinlashni unutmang, aks holda u ishlamaydi.\n\n/help — Ushbu habarni ko`rsatadi 😱\n/language — Foydalanish tilini tanlashga yordam beradi 📣\n",
     kz:
-      '😎 *Banofbot* chattyń paıdalanýshylaryn ban etýge daýys berý múmkіndіgіn beredі. Spammer nemese basqa da qasqyr chatta otyr, bіraq jaqynda admın joq pa? Tek qana `@banofbot` mátіnі bar habarlamamen buzaqyǵa jaýap berіńіz de, bot daýys berýdі bastaıdy. \n\nBotty admın qyldyrýǵa umytpańyz, áıtpese ol jumys іstemeıdі! \n\n/help — Bul habardy kórsetedі 😱\n/language — Tіldі tańdaýǵa múmkіndіk beredі 📣\n\n',
+      '😎 *ban4bot* chattyń paıdalanýshylaryn ban etýge daýys berý múmkіndіgіn beredі. Spammer nemese basqa da qasqyr chatta otyr, bіraq jaqynda admın joq pa? Tek qana `@ban4bot` mátіnі bar habarlamamen buzaqyǵa jaýap berіńіz de, bot daýys berýdі bastaıdy. \n\nBotty admın qyldyrýǵa umytpańyz, áıtpese ol jumys іstemeıdі! \n\n/help — Bul habardy kórsetedі 😱\n/language — Tіldі tańdaýǵa múmkіndіk beredі 📣\n\n',
     tr:
-      '😎 *Banofbot* kullanıcıları yasaklamak için oy kullanmanıza izin verir. İstenmeyen ileti gönderen bir kullanıcı var veya bir tane yasaklayacak kimse yok mu? İhlalci iletisine `@banofbot` yazıp cevaplamanız yeterli: Bot hemen oylamaya başlayacaktır.\n\n/help — Bu mesajı gösterir 😱\n/language — Dili seçmenizi sağlar 📣\n/lock — Komutları kullanarak yönetici olmayanların kilidini açar veya kapatır 🔑\n/limit — Bir kullanıcıyı kovmak için en az sayıda seçmen belirlemenizi sağlar (ayrıca "/limit 100" kullanabilirsiniz) ✌️\n/time — Yasaklamalar arasındaki minimum süreyi seçmenizi sağlar\n\n@banofbot botunu bir yönetici olarak ayarlamayı unutmayın, aksi halde işe yaramaz.\n\nBaşka sorularınız mı var? Destek kanalımızı kontrol edin: @borodutch\\_support 🦄\n\nAlso check out another one of my projects — [Todorant](https://todorant.com) ([iOS](https://apps.apple.com/us/app/todorant/id1482078243), [Android](https://play.google.com/store/apps/details?id=com.todorant)). It is a smart todo list app that uses cognitive psychology to trick your brain into finishing projects and showing results. It\'s free for 30 days with no strings attached, so go give it a shot if you want to improve your productivity. It helped me — it can help you as well.',
+      '😎 *ban4bot* kullanıcıları yasaklamak için oy kullanmanıza izin verir. İstenmeyen ileti gönderen bir kullanıcı var veya bir tane yasaklayacak kimse yok mu? İhlalci iletisine `@ban4bot` yazıp cevaplamanız yeterli: Bot hemen oylamaya başlayacaktır.\n\n/help — Bu mesajı gösterir 😱\n/language — Dili seçmenizi sağlar 📣\n/lock — Komutları kullanarak yönetici olmayanların kilidini açar veya kapatır 🔑\n/limit — Bir kullanıcıyı kovmak için en az sayıda seçmen belirlemenizi sağlar (ayrıca "/limit 100" kullanabilirsiniz) ✌️\n/time — Yasaklamalar arasındaki minimum süreyi seçmenizi sağlar\n\n@ban4bot botunu bir yönetici olarak ayarlamayı unutmayın, aksi halde işe yaramaz.\n\nBaşka sorularınız mı var? Destek kanalımızı kontrol edin: @borodutch\\_support 🦄\n\nAlso check out another one of my projects — [Todorant](https://todorant.com) ([iOS](https://apps.apple.com/us/app/todorant/id1482078243), [Android](https://play.google.com/store/apps/details?id=com.todorant)). It is a smart todo list app that uses cognitive psychology to trick your brain into finishing projects and showing results. It\'s free for 30 days with no strings attached, so go give it a shot if you want to improve your productivity. It helped me — it can help you as well.',
     az:
-      '*Banofbot* istifadəçiləri qadağan etmək üçün səs verməyə imkan verir. Spammer və ya alovlandıran var, amma heç kim qadağan edə bilməz? Qanunu pozanın mesajına sadəcə `@banofbot` mətni ilə cavab verin və bot səsverməyə başlayacaq.\n\n@banofbot qrup söhbətlərində yaxşı işləyir — davam edin, dəyərli söhbətlərinizdən birinə əlavə edin! Admin olaraq qurmağı unutmayın, əks halda işə yaramayacaq.\n\n/help — Bu mesajı göndərir.😱\n/language — Dilinizi seçməyə imkan verir 📣\n\n',
+      '*ban4bot* istifadəçiləri qadağan etmək üçün səs verməyə imkan verir. Spammer və ya alovlandıran var, amma heç kim qadağan edə bilməz? Qanunu pozanın mesajına sadəcə `@ban4bot` mətni ilə cavab verin və bot səsverməyə başlayacaq.\n\n@ban4bot qrup söhbətlərində yaxşı işləyir — davam edin, dəyərli söhbətlərinizdən birinə əlavə edin! Admin olaraq qurmağı unutmayın, əks halda işə yaramayacaq.\n\n/help — Bu mesajı göndərir.😱\n/language — Dilinizi seçməyə imkan verir 📣\n\n',
     ar:
-      'يمكنك بوت البرلماني من حضر المستخدمين بتصويت الاغلبية. حيث يتمكن اعضاء المجموعة الحفاظ على امنها عند انشغال او عدم توفر ادمن فيها.\nيعمل ببساطة من خلال الرد على رسالة الشخص لمراد طرده بكلمة @banofbot وسيفتح البوت التصويت على طرد العضو.\nللبدء باستخدام البوت قم باضافته الى مجموعتك الثمينة.\nلا تنسى ان تعطي البوت صلاحيات ادارة المجموعة, لا يمكنه العمل بدونها\n/help لاظهار هذه الرسالة\n/language لتغيير اللغة',
+      'يمكنك بوت البرلماني من حضر المستخدمين بتصويت الاغلبية. حيث يتمكن اعضاء المجموعة الحفاظ على امنها عند انشغال او عدم توفر ادمن فيها.\nيعمل ببساطة من خلال الرد على رسالة الشخص لمراد طرده بكلمة @ban4bot وسيفتح البوت التصويت على طرد العضو.\nللبدء باستخدام البوت قم باضافته الى مجموعتك الثمينة.\nلا تنسى ان تعطي البوت صلاحيات ادارة المجموعة, لا يمكنه العمل بدونها\n/help لاظهار هذه الرسالة\n/language لتغيير اللغة',
   },
   helpPublic: {
     uk:
-      '😎 *Banofbot* дозволяє голосувати за бан участників чату. Появився спамер або ще який негідник, а адмінів нема поруч? Просто дайте відповідь на повідомлення порушника текстом `@banofbot` і бот почне голосування.\n\n@banofbot чудово працює в групових чатах — давайте, додайте його в кілька! Не забудьте назначити бота адміном, інакше він не зможе працювати.\n\n/help — Показує це повідомлення 😱\n/language — Дозволяє вибрати мову 📣\n/lock — Увімкнути або вимкнути доступ не-адмінів до командам бота 🔑\n/limit — Змінити мінімальну кількість голосів для кіку користувача ✌️\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nНе забудьте назначити @banofbot адміном, інакше він не зможе працювати.\n\n',
+      '😎 *ban4bot* дозволяє голосувати за бан участників чату. Появився спамер або ще який негідник, а адмінів нема поруч? Просто дайте відповідь на повідомлення порушника текстом `@ban4bot` і бот почне голосування.\n\n@ban4bot чудово працює в групових чатах — давайте, додайте його в кілька! Не забудьте назначити бота адміном, інакше він не зможе працювати.\n\n/help — Показує це повідомлення 😱\n/language — Дозволяє вибрати мову 📣\n/lock — Увімкнути або вимкнути доступ не-адмінів до командам бота 🔑\n/limit — Змінити мінімальну кількість голосів для кіку користувача ✌️\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nНе забудьте назначити @ban4bot адміном, інакше він не зможе працювати.\n\n',
     en:
-      "😎 *Banofbot* allows you to vote to ban users. Got a spammer or flamer but nobody is out there to ban one? Simply reply to the violator's message with the text `@banofbot` and the bot will start the voting.\n\n/help — Shows this message 😱\n/language — Lets you pick the language 📣\n/lock — Toggles lock or unlock of non-admins using commands 🔑\n/limit — Lets you set minimal number of voters to kick a user (you can also use \"/limit 100\") ✌️\n/time — Allows you to select the minimum time between bans\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nDon't forget to set @banofbot as an admin, otherwise it wouldn't work.\n\n",
+      "😎 *ban4bot* allows you to vote to ban users. Got a spammer or flamer but nobody is out there to ban one? Simply reply to the violator's message with the text `@ban4bot` and the bot will start the voting.\n\n/help — Shows this message 😱\n/language — Lets you pick the language 📣\n/lock — Toggles lock or unlock of non-admins using commands 🔑\n/limit — Lets you set minimal number of voters to kick a user (you can also use \"/limit 100\") ✌️\n/time — Allows you to select the minimum time between bans\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nDon't forget to set @ban4bot as an admin, otherwise it wouldn't work.\n\n",
     pt:
-      '😎 * Banofbot * permite que você vote para banir usuários. Tem alguém fazendo spam ou flood, mas não tem um admin disponível para dar ban? Simplesmente responda à mensagem do infrator com o texto `@banofbot` e o bot iniciará a votação.\n\n/help - Mostra esta mensagem 😱 \n/language — Permite escolher o idioma 📣\n/lock — Alterna o bloqueio de não-administradores poderem usar os comandos 🔑\n/limit — Permite que você defina um número mínimo de membros para expulsar um usuário ✌️\n/time — permite que você selecione o tempo mínimo entre banimentos\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nNão se esqueça de configurar @banofbot como administrador, caso contrário não vai funcionar.\n\n',
+      '😎 * ban4bot * permite que você vote para banir usuários. Tem alguém fazendo spam ou flood, mas não tem um admin disponível para dar ban? Simplesmente responda à mensagem do infrator com o texto `@ban4bot` e o bot iniciará a votação.\n\n/help - Mostra esta mensagem 😱 \n/language — Permite escolher o idioma 📣\n/lock — Alterna o bloqueio de não-administradores poderem usar os comandos 🔑\n/limit — Permite que você defina um número mínimo de membros para expulsar um usuário ✌️\n/time — permite que você selecione o tempo mínimo entre banimentos\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nNão se esqueça de configurar @ban4bot como administrador, caso contrário não vai funcionar.\n\n',
     ru:
-      '😎 *Banofbot* позволяет голосовать за бан участников чата. Появился спамер или еще какой негодяй, а админов нет рядом? Просто ответьте на сообщение провинившегося текстом `@banofbot` и бот начнет голосование.\n\n/help — Показывает это сообщение 😱\n/language — Позволяет выбрать язык 📣\n/lock — Включить или выключить доступ не-админов к командам бота 🔑\n/limit — Сменить минимальное количество голосов для кика пользователя (также вы можете использовать формат "/limit 100") ✌️\n/time — Настроить минимальное время между банами\n/votekickWord — настройка дополнительных слов начала голосований. Используйте в формате `/votekickWord кик, челлендж, драка` 🐸\n\nНе забудьте назначить @banofbot админом, иначе он не сможет работать.\n\n',
+      '😎 *ban4bot* позволяет голосовать за бан участников чата. Появился спамер или еще какой негодяй, а админов нет рядом? Просто ответьте на сообщение провинившегося текстом `@ban4bot` и бот начнет голосование.\n\n/help — Показывает это сообщение 😱\n/language — Позволяет выбрать язык 📣\n/lock — Включить или выключить доступ не-админов к командам бота 🔑\n/limit — Сменить минимальное количество голосов для кика пользователя (также вы можете использовать формат "/limit 100") ✌️\n/time — Настроить минимальное время между банами\n/votekickWord — настройка дополнительных слов начала голосований. Используйте в формате `/votekickWord кик, челлендж, драка` 🐸\n\nНе забудьте назначить @ban4bot админом, иначе он не сможет работать.\n\n',
     uz:
-      "😎 *Banofbot* guruh a'zolarini ban qilish uchun ovoz berishga yordam beradi. Spamer yoki qandaydir bezori paydo bo`ldi, lekin adminlar bandmi? Shunchaki bezorining habariga javob qilib `@banofbot` so`zini yuboring va bot ban qilish uchun ovoz to`plashni boshlaydi.\n\n/help — Ushbu habarni ko`rsatadi 😱\n/language — Foydalanish tilini tanlashga yordam beradi 📣\n/lock — Oddiy foydalanuvchilarga (admin bo`lmaganlarga) bot buyruqlarini ishlatishni ta'qiqlaydi 🔑\n/limit — Foydalanuvchini ban qilish uchun kerak bo`lgan eng kam ovozlar sonini belgilaydi ✌️\n/time — Banlar orasidagi eng kam vaqtni belgilaydi\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nBotni admin qilib tayinlashni unutmang, aks holda u ishlamaydi.\n\n",
+      "😎 *ban4bot* guruh a'zolarini ban qilish uchun ovoz berishga yordam beradi. Spamer yoki qandaydir bezori paydo bo`ldi, lekin adminlar bandmi? Shunchaki bezorining habariga javob qilib `@ban4bot` so`zini yuboring va bot ban qilish uchun ovoz to`plashni boshlaydi.\n\n/help — Ushbu habarni ko`rsatadi 😱\n/language — Foydalanish tilini tanlashga yordam beradi 📣\n/lock — Oddiy foydalanuvchilarga (admin bo`lmaganlarga) bot buyruqlarini ishlatishni ta'qiqlaydi 🔑\n/limit — Foydalanuvchini ban qilish uchun kerak bo`lgan eng kam ovozlar sonini belgilaydi ✌️\n/time — Banlar orasidagi eng kam vaqtni belgilaydi\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nBotni admin qilib tayinlashni unutmang, aks holda u ishlamaydi.\n\n",
     kz:
-      '😎 *Banofbot* chattyń paıdalanýshylaryn ban etýge daýys berý múmkіndіgіn beredі. Spammer nemese basqa da qasqyr chatta otyr, bіraq jaqynda admın joq pa? Tek qana `@banofbot` mátіnі bar habarlamamen buzaqyǵa jaýap berіńіz de, bot daýys berýdі bastaıdy.\n\n/help — Bul habardy kórsetedі 😱\n/language — Tіldі tańdaýǵa múmkіndіk beredі 📣\n/lock — Bot komandalaryna admın emes qoldanýshylarǵa qatynaý berý nemese alý. 🔑\n/limit — Shyǵaryp jіberý úshіn eń az daýys sanyn tańdaý ✌️\n/time — Banǵa daýys berý aralyǵyndagy en az sekýndtar sanyn tańdaý\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nBotty admın qyldyrýǵa umytpańyz, áıtpese ol jumys іstemeıdі!\n\n',
+      '😎 *ban4bot* chattyń paıdalanýshylaryn ban etýge daýys berý múmkіndіgіn beredі. Spammer nemese basqa da qasqyr chatta otyr, bіraq jaqynda admın joq pa? Tek qana `@ban4bot` mátіnі bar habarlamamen buzaqyǵa jaýap berіńіz de, bot daýys berýdі bastaıdy.\n\n/help — Bul habardy kórsetedі 😱\n/language — Tіldі tańdaýǵa múmkіndіk beredі 📣\n/lock — Bot komandalaryna admın emes qoldanýshylarǵa qatynaý berý nemese alý. 🔑\n/limit — Shyǵaryp jіberý úshіn eń az daýys sanyn tańdaý ✌️\n/time — Banǵa daýys berý aralyǵyndagy en az sekýndtar sanyn tańdaý\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\nBotty admın qyldyrýǵa umytpańyz, áıtpese ol jumys іstemeıdі!\n\n',
     tr:
-      '😎 *Banofbot* kullanıcıları yasaklamak için oy kullanmanıza izin verir. İstenmeyen ileti gönderen bir kullanıcı var veya bir tane yasaklayacak kimse yok mu? İhlalci iletisine `@banofbot` yazıp cevaplamanız yeterli: Bot hemen oylamaya başlayacaktır.\n\n/help — Bu mesajı gösterir 😱\n/language — Dili seçmenizi sağlar 📣\n/lock — Komutları kullanarak yönetici olmayanların kilidini açar veya kapatır 🔑\n/limit — Bir kullanıcıyı kovmak için en az sayıda seçmen belirlemenizi sağlar (ayrıca "/limit 100" kullanabilirsiniz) ✌️\n/time — Yasaklamalar arasındaki minimum süreyi seçmenizi sağlar\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\n@banofbot botunu bir yönetici olarak ayarlamayı unutmayın, aksi halde işe yaramaz.\n\n',
+      '😎 *ban4bot* kullanıcıları yasaklamak için oy kullanmanıza izin verir. İstenmeyen ileti gönderen bir kullanıcı var veya bir tane yasaklayacak kimse yok mu? İhlalci iletisine `@ban4bot` yazıp cevaplamanız yeterli: Bot hemen oylamaya başlayacaktır.\n\n/help — Bu mesajı gösterir 😱\n/language — Dili seçmenizi sağlar 📣\n/lock — Komutları kullanarak yönetici olmayanların kilidini açar veya kapatır 🔑\n/limit — Bir kullanıcıyı kovmak için en az sayıda seçmen belirlemenizi sağlar (ayrıca "/limit 100" kullanabilirsiniz) ✌️\n/time — Yasaklamalar arasındaki minimum süreyi seçmenizi sağlar\n/votekickWord — allows you to set more votekick words. Use like `/votekickWord kick, trial, challenge` 🐸\n\n@ban4bot botunu bir yönetici olarak ayarlamayı unutmayın, aksi halde işe yaramaz.\n\n',
     az:
-      '😎 *Banofbot* istifadəçiləri qadağan etmək üçün səs verməyə imkan verir. Spammer və ya alovlandıran var, amma heç kim qadağan edə bilməz? Qanunu pozanın mesajına sadəcə `@banofbot` mətni ilə cavab verin və bot səsverməyə başlayacaq.\n\n/help — Bu mesajı göstərir 😱 \n/language — Dili seçməyə imkan verir 📣 \n/lock - Kilidi açar və ya əmrlərdən istifadə edərək admin olmayanların kilidini açmaq 🔑 \n/limit — Bir istifadəçiyə təpik vurmaq üçün seçicilərin minimum sayını təyin etməyə imkan verir ("/limit 100" də istifadə edə bilərsiniz) ✌️\n/time - arasında minimum vaxt seçməyə imkan verir qadağalar\n/votekickWord — daha çox səs seçmə sözləri təyin etməyə imkan verir. `/votekickWord kick, trial, challenge` kimi istifadə edin 🐸 \n\n@banofbot u admin olaraq təyin etməyi unutmayın, əks halda alınmayacaq.\n\n',
+      '😎 *ban4bot* istifadəçiləri qadağan etmək üçün səs verməyə imkan verir. Spammer və ya alovlandıran var, amma heç kim qadağan edə bilməz? Qanunu pozanın mesajına sadəcə `@ban4bot` mətni ilə cavab verin və bot səsverməyə başlayacaq.\n\n/help — Bu mesajı göstərir 😱 \n/language — Dili seçməyə imkan verir 📣 \n/lock - Kilidi açar və ya əmrlərdən istifadə edərək admin olmayanların kilidini açmaq 🔑 \n/limit — Bir istifadəçiyə təpik vurmaq üçün seçicilərin minimum sayını təyin etməyə imkan verir ("/limit 100" də istifadə edə bilərsiniz) ✌️\n/time - arasında minimum vaxt seçməyə imkan verir qadağalar\n/votekickWord — daha çox səs seçmə sözləri təyin etməyə imkan verir. `/votekickWord kick, trial, challenge` kimi istifadə edin 🐸 \n\n@ban4bot u admin olaraq təyin etməyi unutmayın, əks halda alınmayacaq.\n\n',
     ar:
-      'بوت البرلمناني يمكنك من التصويت على طرد احد الاعضاء. اذا وجد مخرب ولا يتوفر ادمن في ذلك الوقت لطرده قم بالرد على المخرب برسالة فيها @banofbot وسيبدا البوت بتشغيل التصويت.\n/help — يعرض هذه الرسالة 😱\n/language — يسمح لك بتحديد اللغة 📣\n/lock — يفتح أو يغلق قفل الأوامر للمستخدمين الغير مشرفين 🔑\n/limit — يسمح لك بتحديد عدد الأصوات الأدنى لحظر المستخدمين (يمكنك أيضًا استخدام "/limit 100") ✌️\n/time — يسمح لك بتحديد الوقت الأدنى بين الحظرين\n/votekickWord — يسمح لك بتحديد كلمات أكثر من واحدة للتصويت لحظر المستخدمين. استخدم /votekickWord kick, trial, challenge 🐸',
+      'بوت البرلمناني يمكنك من التصويت على طرد احد الاعضاء. اذا وجد مخرب ولا يتوفر ادمن في ذلك الوقت لطرده قم بالرد على المخرب برسالة فيها @ban4bot وسيبدا البوت بتشغيل التصويت.\n/help — يعرض هذه الرسالة 😱\n/language — يسمح لك بتحديد اللغة 📣\n/lock — يفتح أو يغلق قفل الأوامر للمستخدمين الغير مشرفين 🔑\n/limit — يسمح لك بتحديد عدد الأصوات الأدنى لحظر المستخدمين (يمكنك أيضًا استخدام "/limit 100") ✌️\n/time — يسمح لك بتحديد الوقت الأدنى بين الحظرين\n/votekickWord — يسمح لك بتحديد كلمات أكثر من واحدة للتصويت لحظر المستخدمين. استخدم /votekickWord kick, trial, challenge 🐸',
   },
-  languageSelectedBanofbot: {
-    uk: '@banofbot тепер розмовляє українською. Дякую!',
-    en: '@banofbot now speaks English. Thank you!',
-    pt: '@banofbot agora fala português. Obrigado!',
-    ru: '@banofbot теперь говорит по-русски. Спасибо!',
-    uz: '@banofbot endi o\\`zbekcha gapiradi. Rahmat!',
-    kz: '@banofbot endі qazaqsha sóıleıdі. Rahmet!',
-    tr: '@banofbot artık Türkçe konuşuyor. Teşekkür ederiz!',
-    az: '@banofbot indi Azərbaycan dilində danışır. Çox sağ ol!',
-    ar: '@banofbot الآن يتحدث العربية. شكرا!',
+  languageSelectedban4bot: {
+    uk: '@ban4bot тепер розмовляє українською. Дякую!',
+    en: '@ban4bot now speaks English. Thank you!',
+    pt: '@ban4bot agora fala português. Obrigado!',
+    ru: '@ban4bot теперь говорит по-русски. Спасибо!',
+    uz: '@ban4bot endi o\\`zbekcha gapiradi. Rahmat!',
+    kz: '@ban4bot endі qazaqsha sóıleıdі. Rahmet!',
+    tr: '@ban4bot artık Türkçe konuşuyor. Teşekkür ederiz!',
+    az: '@ban4bot indi Azərbaycan dilində danışır. Çox sağ ol!',
+    ar: '@ban4bot الآن يتحدث العربية. شكرا!',
   },
-  lockOnBanofbot: {
+  lockOnban4bot: {
     uk:
-      '🔑 Чудно! *Banofbot* тепер реагує на команди, відправлені *адмінами*, в цьому чаті.',
+      '🔑 Чудно! *ban4bot* тепер реагує на команди, відправлені *адмінами*, в цьому чаті.',
     en:
-      '🔑 Great! *Banofbot* will now respond only to command calls sent by *admins* in this chat.',
+      '🔑 Great! *ban4bot* will now respond only to command calls sent by *admins* in this chat.',
     pt:
-      '🔑 OK! *Banofbot* somente vai atender a comandos enviados por *admins".',
+      '🔑 OK! *ban4bot* somente vai atender a comandos enviados por *admins".',
     ru:
-      '🔑 Чудно! *Banofbot* теперь реагирует только на команды, посланные *админами*, в этом чате.',
+      '🔑 Чудно! *ban4bot* теперь реагирует только на команды, посланные *админами*, в этом чате.',
     uz:
-      '🔑 Ajoyib! *Banofbot* endi faqat ushbu guruhdagi *adminlar* yuborgan buyruqlarga javob beradi.',
+      '🔑 Ajoyib! *ban4bot* endi faqat ushbu guruhdagi *adminlar* yuborgan buyruqlarga javob beradi.',
     kz:
-      '🔑 Keremet! *Banofbot* endі osy chatta *admınnyń* komandalaryna ǵana jaýap beredі.',
+      '🔑 Keremet! *ban4bot* endі osy chatta *admınnyń* komandalaryna ǵana jaýap beredі.',
     tr:
-      '🔑 Harika! *Banofbot* artık bu sohbette yalnızca *yöneticiler* tarafından gönderilen komut çağrılarına yanıt verecek.',
+      '🔑 Harika! *ban4bot* artık bu sohbette yalnızca *yöneticiler* tarafından gönderilen komut çağrılarına yanıt verecek.',
     az:
-      '🔑 Əla! *Banofbot* indi yalnız *söhbət* administratorları tərəfindən göndərilən komanda zənglərinə cavab verəcəkdir.',
+      '🔑 Əla! *ban4bot* indi yalnız *söhbət* administratorları tərəfindən göndərilən komanda zənglərinə cavab verəcəkdir.',
     ar:
-      '🔑 رائع! *Banofbot* الآن سيستجيب فقط لمكالمات الأوامر المرسلة من قبل *المشرفين* في هذه الدردشة.',
+      '🔑 رائع! *ban4bot* الآن سيستجيب فقط لمكالمات الأوامر المرسلة من قبل *المشرفين* في هذه الدردشة.',
   },
-  lockOffBanofbot: {
+  lockOffban4bot: {
     uk:
-      '🔑 Чудно! *Banofbot* тепер реагує на команди, відправлені *будь-якими користувачами*, в цьому чаті.',
+      '🔑 Чудно! *ban4bot* тепер реагує на команди, відправлені *будь-якими користувачами*, в цьому чаті.',
     en:
-      '🔑 Great! *Banofbot* will now respond only to command calls from *anyone* in this chat.',
-    pt: '🔑 OK! *Banofbot* vai atender a comandos de *qualquer membro*.',
+      '🔑 Great! *ban4bot* will now respond only to command calls from *anyone* in this chat.',
+    pt: '🔑 OK! *ban4bot* vai atender a comandos de *qualquer membro*.',
     ru:
-      '🔑 Чудно! *Banofbot* теперь реагирует на команды, посланные *любыми пользователями*, в этом чате.',
+      '🔑 Чудно! *ban4bot* теперь реагирует на команды, посланные *любыми пользователями*, в этом чате.',
     uz:
-      '🔑 Ajoyib! *Banofbot* endi ushbu guruhdagi *istalgan foydalanuvchi* yuborgan buyruqlarga javob beradi.',
+      '🔑 Ajoyib! *ban4bot* endi ushbu guruhdagi *istalgan foydalanuvchi* yuborgan buyruqlarga javob beradi.',
     kz:
-      '🔑 Keremet! *Banofbot* endі osy chatta *kez kelgen paıdalanýshy* arqyly jіberіlgen komandalarǵa jaýap beredі.',
+      '🔑 Keremet! *ban4bot* endі osy chatta *kez kelgen paıdalanýshy* arqyly jіberіlgen komandalarǵa jaýap beredі.',
     tr:
-      '🔑 Harika! *Banofbot* artık bu sohbette *herkes* tarafından gönderilen komut çağrılarına cevap verecek.',
+      '🔑 Harika! *ban4bot* artık bu sohbette *herkes* tarafından gönderilen komut çağrılarına cevap verecek.',
     az:
-      '🔑 Əla! *Banofbot* indi yalnız bu söhbətdəki *hər kəsdən* gələn komanda zənglərinə cavab verəcəkdir.',
+      '🔑 Əla! *ban4bot* indi yalnız bu söhbətdəki *hər kəsdən* gələn komanda zənglərinə cavab verəcəkdir.',
     ar:
-      '🔑 رائع! *Banofbot* الآن سيستجيب فقط لمكالمات الأوامر من *أي شخص* في هذه الدردشة.',
+      '🔑 رائع! *ban4bot* الآن سيستجيب فقط لمكالمات الأوامر من *أي شخص* في هذه الدردشة.',
   },
   kickRequest: {
     uk: '$[1] хоче кікнути $[2] з чату. Згідні?',
@@ -197,23 +197,23 @@ module.exports = {
   },
   adminError: {
     uk:
-      '🔥 Ой! Схоже, що @banofbot тут ще не адмін. Будь-ласка, попросіть адмінів додати @banofbot, як адміна, інакше він не буде. Дякую!',
+      '🔥 Ой! Схоже, що @ban4bot тут ще не адмін. Будь-ласка, попросіть адмінів додати @ban4bot, як адміна, інакше він не буде. Дякую!',
     en:
-      '🔥 Oops! Looks like @banofbot is not an admin here yet. Please ask admins to set @banofbot as an admin as well, otherwise it will not work. Thanks!',
+      '🔥 Oops! Looks like @ban4bot is not an admin here yet. Please ask admins to set @ban4bot as an admin as well, otherwise it will not work. Thanks!',
     pt:
-      '🔥 Ops! Parece que o @banofbot ainda não é um administrador. Por favor, peça aos administradores que definam @banofbot como administrador também, senão não funcionará. Obrigado!',
+      '🔥 Ops! Parece que o @ban4bot ainda não é um administrador. Por favor, peça aos administradores que definam @ban4bot como administrador também, senão não funcionará. Obrigado!',
     ru:
-      '🔥 Ой! Похоже, что @banofbot здесь еще не админ. Пожалуйста, попросите админов добавить @banofbot, как админа, иначее он не будет работать. Спасибо!',
+      '🔥 Ой! Похоже, что @ban4bot здесь еще не админ. Пожалуйста, попросите админов добавить @ban4bot, как админа, иначее он не будет работать. Спасибо!',
     uz:
-      "🔥 Vay! @banofbot ushbu guruhda admin emasga o\\`xshaydi. Iltimos, adminlardan @banofbot'ni guruh admini qilib tayinlashni so\\`rang, aks holda u ishlamaydi. Rahmat!",
+      "🔥 Vay! @ban4bot ushbu guruhda admin emasga o\\`xshaydi. Iltimos, adminlardan @ban4bot'ni guruh admini qilib tayinlashni so\\`rang, aks holda u ishlamaydi. Rahmat!",
     kz:
-      '🔥 Oı! @Banofbot álі admın emes sııaqty. Admınderden @banofbot-dі admin dep qosýdy surańyz, áıtpese ol jumys іstemeıdі. Rahmet!',
+      '🔥 Oı! @ban4bot álі admın emes sııaqty. Admınderden @ban4bot-dі admin dep qosýdy surańyz, áıtpese ol jumys іstemeıdі. Rahmet!',
     tr:
-      '🔥 Hay aksi! Görünüşe göre @banofbot henüz bir yönetici değil. Lütfen yöneticilerinizden @banofbot botunu bir yönetici olarak ayarlamasını isteyin, aksi takdirde çalışmaz. Teşekkür ederiz!',
+      '🔥 Hay aksi! Görünüşe göre @ban4bot henüz bir yönetici değil. Lütfen yöneticilerinizden @ban4bot botunu bir yönetici olarak ayarlamasını isteyin, aksi takdirde çalışmaz. Teşekkür ederiz!',
     az:
-      '🔥 Vay! Görünür @banofbot hələ burada admin deyil. Zəhmət olmasa, administratorlardan @banofbot-u da admin olaraq təyin etmələrini xahiş edin, əks halda işə yaramır. Təşəkkürlər!',
+      '🔥 Vay! Görünür @ban4bot hələ burada admin deyil. Zəhmət olmasa, administratorlardan @ban4bot-u da admin olaraq təyin etmələrini xahiş edin, əks halda işə yaramır. Təşəkkürlər!',
     ar:
-      '🔥 عفوًا! يبدو أن @banofbot ليس مشرفًا هنا بعد. يرجى طلب من المشرفين تعيين @banofbot كمشرف أيضًا ، وإلا فلن يعمل. شكرًا!',
+      '🔥 عفوًا! يبدو أن @ban4bot ليس مشرفًا هنا بعد. يرجى طلب من المشرفين تعيين @ban4bot كمشرف أيضًا ، وإلا فلن يعمل. شكرًا!',
   },
   limitMessage: {
     uk:
@@ -237,22 +237,22 @@ module.exports = {
   },
   limitSuccess: {
     uk:
-      '@banofbot тепер буде кікати користувача, якщо*$[1]* людей проголосує за це. Дякую!',
-    en: '@banofbot will now kick a user if *$[1]* people vote for it. Thanks!',
+      '@ban4bot тепер буде кікати користувача, якщо*$[1]* людей проголосує за це. Дякую!',
+    en: '@ban4bot will now kick a user if *$[1]* people vote for it. Thanks!',
     pt:
-      '@banofbot agora vai expulsar um usuário se *$[1]* pessoas votarem. Obrigado!',
+      '@ban4bot agora vai expulsar um usuário se *$[1]* pessoas votarem. Obrigado!',
     ru:
-      '@banofbot теперь будет кикать пользователя, если *$[1]* людей проголосуют за это. Спасибо!',
+      '@ban4bot теперь будет кикать пользователя, если *$[1]* людей проголосуют за это. Спасибо!',
     uz:
-      '@banofbot endi foydalanuvchini *$[1]*ta qarshi ovozdan keyin kick qiladi. Rahmat!',
+      '@ban4bot endi foydalanuvchini *$[1]*ta qarshi ovozdan keyin kick qiladi. Rahmat!',
     kz:
-      '@banofbot endі paıdalanýshyny *$[1]* adam daýys bergen kezde, ony shyǵaryp jіberedі. Rahmet!',
+      '@ban4bot endі paıdalanýshyny *$[1]* adam daýys bergen kezde, ony shyǵaryp jіberedі. Rahmet!',
     tr:
-      '@banofbot artık *$[1]* kişi oy verirse bir kullanıcıyı kovacak. Teşekkür ederiz!',
+      '@ban4bot artık *$[1]* kişi oy verirse bir kullanıcıyı kovacak. Teşekkür ederiz!',
     az:
-      '@banofbot indi *$[1]* nəfərin buna səs verməsi halında bir istifadəçini vuracaq. Təşəkkürlər!',
+      '@ban4bot indi *$[1]* nəfərin buna səs verməsi halında bir istifadəçini vuracaq. Təşəkkürlər!',
     ar:
-      '‏@banofbot سيقوم الآن بإزالة مستخدم إذا صوت *$[1]* أشخاص على ذلك. شكرًا!',
+      '‏@ban4bot سيقوم الآن بإزالة مستخدم إذا صوت *$[1]* أشخاص على ذلك. شكرًا!',
   },
   tooSoonError: {
     en:
@@ -292,20 +292,20 @@ module.exports = {
   },
   timeLimitSuccess: {
     en:
-      '@banofbot will now allow new ban requests *$[1]* seconds after the last ban. Thanks!',
+      '@ban4bot will now allow new ban requests *$[1]* seconds after the last ban. Thanks!',
     pt:
-      '@banofbot agora permitirá novas solicitações *$[1]* segundos após a última. Obrigado!',
+      '@ban4bot agora permitirá novas solicitações *$[1]* segundos após a última. Obrigado!',
     ru:
-      '@banofbot теперь будет начинать голосования на бан, спустя *$[1]* секунд после последнего бана. Спасибо!',
+      '@ban4bot теперь будет начинать голосования на бан, спустя *$[1]* секунд после последнего бана. Спасибо!',
     uz:
-      '@banofbot endi ban qilish uchun ovoz berishni oxirgi bandan *$[1]* soniyadan keyin boshlaydi. Rahmat!',
+      '@ban4bot endi ban qilish uchun ovoz berishni oxirgi bandan *$[1]* soniyadan keyin boshlaydi. Rahmat!',
     kz:
-      '@banofbot sońǵy bannan keıіn *$[1]* sekýnd ótkennen soń banǵa daýys berý bastaıdy. Rahmet!',
+      '@ban4bot sońǵy bannan keıіn *$[1]* sekýnd ótkennen soń banǵa daýys berý bastaıdy. Rahmet!',
     tr:
-      '@banofbot artık yeni yasaklama isteklerine son yasaklamadan *$[1]* saniye sonra izin verecek. Teşekkür ederiz!',
+      '@ban4bot artık yeni yasaklama isteklerine son yasaklamadan *$[1]* saniye sonra izin verecek. Teşekkür ederiz!',
     az:
-      '@banofbot indi son qadağadan *$[1]* saniyə sonra yeni qadağan istəklərinə icazə verəcəkdir. Təşəkkürlər!',
+      '@ban4bot indi son qadağadan *$[1]* saniyə sonra yeni qadağan istəklərinə icazə verəcəkdir. Təşəkkürlər!',
     ar:
-      'سيسمح @banofbot الآن بطلبات حظر جديدة بعد *$[1]* ثانية من آخر حظر. شكرًا!',
+      'سيسمح @ban4bot الآن بطلبات حظر جديدة بعد *$[1]* ثانية من آخر حظر. شكرًا!',
   },
 }
