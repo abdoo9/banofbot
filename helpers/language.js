@@ -111,6 +111,7 @@ function languages() {
     Azerbaijani: 'az',
     German: 'de',
     French: 'fr',
+    عربى: 'ar',
   }
 }
 

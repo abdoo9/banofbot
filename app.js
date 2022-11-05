@@ -44,8 +44,6 @@ mongoose.connection.on('disconnected', () => {
     useNewUrlParser: true,
   })
 })
-mongoose.set('useCreateIndex', true)
-mongoose.set('useFindAndModify', false)
 
 let timeoutOver = false
 setTimeout(() => {
