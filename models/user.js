@@ -7,7 +7,7 @@
 const mongoose = require('mongoose')
 
 /** Schema */
-const Schema = mongoose.Schema
+const {Schema} = mongoose
 const userSchema = new Schema(
   {
     id: {
@@ -35,7 +35,7 @@ userSchema.methods.name = function name() {
 
 userSchema.methods.realNameWithHTML = function(bot, chatId) {
   return bot.getChatMember(chatId, this.id).then(res => {
-    const user = res.user
+    const {user} = res
     if (user.username) {
       return `<a href="tg://user?id=${user.id}">@${user.username}</a>`
     }

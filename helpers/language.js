@@ -97,21 +97,22 @@ function languageKeyboard(isCommand) {
 
 /**
  * Returns a list of supported languages
- * @return {[String]]} List of the supported languages
+ * @return {[String]} List of the supported languages
  */
 function languages() {
   return {
-    Russian: 'ru',
+    عربي: 'ar',
     English: 'en',
+    Russian: 'ru',
+    Turkish: 'tr',
+    German: 'de',
     Ukrainian: 'uk',
     Uzbek: 'uz',
     Kazakh: 'kz',
     Português: 'pt',
-    Turkish: 'tr',
     Azerbaijani: 'az',
-    German: 'de',
     French: 'fr',
-    عربى: 'ar',
+
   }
 }
 
