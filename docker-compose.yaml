@@ -4,9 +4,16 @@ services:
   app:
     build: ./
     restart: unless-stopped
-    env_file: ./.env
+    env_file: ./ban4bot/.env
+    networks:
+      - proxy
+      - default
     labels:
       - "traefik.enable=true"
       - "traefik.docker.network=proxy"
       - "traefik.http.routers.app-secure.entrypoints=websecure"
       - "traefik.http.routers.app-secure.rule=Host(`ban4bot.teleguid.com`)"
+      - "traefik.http.services.app.loadbalancer.server.port=3000"
+networks:
+  proxy:
+    external: true
