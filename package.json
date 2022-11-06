@@ -9,7 +9,7 @@
     "node": ">=6.4"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "node ban4bot/app.js",
     "localize": "node localize.js",
     "upload-translations": "node scripts/upload.js",
     "download-translations": "node scripts/download.js && yarn prettier --single-quote --no-semi --write ./helpers/localizations.js"

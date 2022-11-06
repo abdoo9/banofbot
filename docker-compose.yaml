@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   mongodb:
-    image: arm64v8/mongo:latest
+    image: arm64v8/mongo:4.2
     restart: unless-stopped
     env_file: ./.env
     environment:
@@ -15,7 +15,7 @@ services:
   app:
     depends_on:
       - mongodb
-    build: /ban4bot
+    build: ./
     restart: unless-stopped
     env_file: ./.env
     labels:

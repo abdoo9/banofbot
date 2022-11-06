@@ -1,6 +1,6 @@
-FROM node:8.9.4-alpine
+FROM node:19
 
-WORKDIR /usr/src/app
+WORKDIR /ban4bot
 COPY package.json .
 COPY yarn.lock .
 RUN yarn install
